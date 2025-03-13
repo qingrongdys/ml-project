@@ -1,0 +1,4 @@
+/data_daily/
+/data_intraday/
+/__pycache__/
+*.csv
